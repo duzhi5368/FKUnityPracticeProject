@@ -1,3 +1,3 @@
 # PracticeProject
  
-![ScreenShot]("游戏列表.png")
+![ScreenShot](游戏列表.png)
